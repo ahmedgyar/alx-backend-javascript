@@ -1,1 +1,4 @@
-export default (...input) => input.length
+export default function returnHowManyArguments(...input) {
+    return input.length;
+}
+
