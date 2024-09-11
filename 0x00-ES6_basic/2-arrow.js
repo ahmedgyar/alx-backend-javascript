@@ -7,7 +7,7 @@
       return this.sanFranciscoNeighborhoods;
     };
   }
-
+  
 // const instance = new getNeighborhoodsList();
 // instance.addNeighborhood('test')
 
